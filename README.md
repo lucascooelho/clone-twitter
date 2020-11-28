@@ -5,7 +5,8 @@
 <p align="center">Check online <a href="https://silly-kare-66f02b.netlify.app/">here</a>.</p>
 
 
-## &#128187 technologies used
+## <span>&#128187;</span> technologies used
+
 TypeScript
 React.js
 Styled Components
