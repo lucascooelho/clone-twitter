@@ -7,6 +7,6 @@
 
 ## <span>&#128187;</span> technologies used
 
-TypeScript
-React.js
-Styled Components
+- TypeScript
+- React.js
+- Styled Components
