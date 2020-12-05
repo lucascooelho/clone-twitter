@@ -4,7 +4,7 @@
 
 <p align="center">Check online <a href="https://silly-kare-66f02b.netlify.app/" target="_blank" >here</a>.</p>
 
-<span align="center">&#128679;</span><p>All programming for this code has only study purposes and new knowledge.<p/><span>&#128679;</span>
+<p align="center">All programming for this code has only study purposes and new knowledge.</p>
 
 
 ## <span>&#128187;</span> technologies used
