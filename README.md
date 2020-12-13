@@ -4,6 +4,8 @@
 
 <p align="center">Check online <a href="https://silly-kare-66f02b.netlify.app/" target="_blank" >here</a>.</p>
 
+![](https://github.com/lucascooelho/clone-twitter/blob/master/src/assets/images/clone-twitter.JPG)
+
 <p align="center">All programming for this code has only study purposes and new knowledge.</p>
 
 
