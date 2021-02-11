@@ -2,7 +2,7 @@
 
 <p align="center">This project is a responsive <a href="http://twitter.com/" target="_blank" >Twitter</a> home page clone. Where responsiveness concepts were addressed using React.</p>
 
-<p align="center">Check online <a href="https://silly-kare-66f02b.netlify.app/" target="_blank" >here</a>.</p>
+<p align="center">Check online <a href="https://twiitteer.netlify.app/" target="_blank" >here</a>.</p>
 
 ![](https://github.com/lucascooelho/clone-twitter/blob/master/src/assets/images/clone-twitter.JPG)
 
